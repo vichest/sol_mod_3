@@ -1,0 +1,20 @@
+{
+  "name": "v3",
+  "symbol": "NB",
+  "description": "Collection of 10 villans. This is the number 4/5",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

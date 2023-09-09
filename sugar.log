@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Sanjits-MacBook-Air.local","pid":13326,"time":"2023-09-08T19:58:50.971794Z","target":"sugar","line":123,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Assets directory is missing or empty.","level":30,"hostname":"Sanjits-MacBook-Air.local","pid":13326,"time":"2023-09-08T19:58:50.973674Z","target":"sugar_cli::validate::process","line":33,"file":"src/validate/process.rs"}

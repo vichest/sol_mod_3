@@ -1,0 +1,35 @@
+{
+  "number": 5,
+  "price": 1.0,
+  "symbol": "NB",
+  "splTokenAccount": "9S2yZiCZnTQBxwtjZEjv2c1XbHfWhFY2oZ7hEWab4UQm",
+  "splToken": "5VRZwncJDksNY1MZQdAofJzhjtWAz6XpbLxwD8aMDp6L",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "ruleSet": null,
+  "creators": [
+    {
+      "address": "HbeXbxynmgswKRY2nwM741hdUYGgLSqX6AxLJKUUw8pk",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "TokenPayment": {
+        "value": 1
+      },
+      "startDate": {
+        "date": "2022-10-23T20:00:00Z"
+      }
+    }
+  }
+}
